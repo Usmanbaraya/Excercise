@@ -32,3 +32,4 @@ filtered_students = filtered_students[filtered_students["Score"] >= min_score]
 
 st.write(f"Students with scores >= {min_score}:")
 st.write(filtered_students)
+
